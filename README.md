@@ -2,10 +2,6 @@
 
 ### A passionate Data analyst passionate about analytics and automation.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicswag03&label=Profile views&color=0e75b6&style=flat" alt="dominicswag03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicswag03" alt="dominicswag03" /></a> </p>
-
 - 🌱 I'm currently learning **Machine Learning, Automation Pipelines, Deep Learning, Data Engineering concepts**
 
 - 👯 I'm looking to collaborate on **Data Analysis / Machine Learning Projects (Python, SQL, Real-world datasets)**
